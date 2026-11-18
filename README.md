@@ -4,6 +4,11 @@
 
 Repository: https://github.com/show-star/aa45
 
+| Page | Practical |
+| --- | --- |
+| This page | **Practical 4:** Docker basics (nginx, `my-web-app:v1`) |
+| [p5](p5/README.md) | **Practical 5:** Docker Compose multi-container app (Flask + MySQL) |
+
 ## Aim
 
 Pull the `nginx` image from Docker Hub and run it on port 8080, create a simple web page that says "Hello Docker", write a Dockerfile for it using `nginx:alpine`, build the image `my-web-app:v1`, run it on port 8081, and use the basic Docker commands `docker ps`, `docker images`, `docker logs`, `docker stop` and `docker rm`.
