@@ -4,6 +4,8 @@
 
 Repository: https://github.com/show-star/aa45
 
+📘 **Viva questions and easy explanations for all 6 practicals:** [VIVA.md](VIVA.md)
+
 | Page | Practical |
 | --- | --- |
 | This page | **Practical 4:** Docker basics (nginx, `my-web-app:v1`) |
